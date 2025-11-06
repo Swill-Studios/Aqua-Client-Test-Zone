@@ -15,8 +15,9 @@ pluginManagement {
 	}
 }
 
-rootProject.name = "eaglercraft-workspace"
+rootProject.name = "Aqua-Client"
 
 include("target_lwjgl_desktop")
 include("target_teavm_javascript")
 include("target_teavm_wasm_gc")
+
